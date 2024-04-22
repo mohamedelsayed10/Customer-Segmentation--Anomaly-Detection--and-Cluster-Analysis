@@ -1,6 +1,6 @@
 # Customer Segmentation, Anomaly Detection, and Cluster Analysis
 
-![Customer Clusters](cluster_image.png)
+![Customer Clusters](![image](https://github.com/mohamedelsayed10/Customer-Segmentation--Anomaly-Detection--and-Cluster-Analysis/assets/87568101/3be7a266-b1a5-46f6-bfc4-63e4ee7bda45)
 
 This project focuses on customer segmentation, anomaly detection, and cluster analysis using clustering techniques on a Credit Card Dataset. The process involves data preprocessing, applying K-means and hierarchical clustering algorithms, extracting business meanings from the clusters, and describing the clusters generated.
 
